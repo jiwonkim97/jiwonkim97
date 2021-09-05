@@ -1,2 +1,1 @@
 # Jiwon Kim
-## Backend engineer
